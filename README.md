@@ -21,4 +21,5 @@ Folder Structure
 |       \---INFM600_0201_Grand_WorkPlan
 |               INFM600_0201_Grand_WorkPlan_GanttChart_v1.0.xlsx
 |               INFM600_0201_Grand_WorkPlan_WorkPlanProposal_Release_v1.0.pdf
+				INFM600_0201_Grand_WorkPlan_WorkPlanProposal_Release_v1.0.docx
                 
