@@ -1,0 +1,40 @@
+Data URL :
+https://ofmpub.epa.gov/enviro/efservice/MV_TRI_BASIC_DOWNLOAD/year/=/2014/fname/TRI_2014_US.csv/CSV
+
+Data APA Citation:
+EPA, U., & OIAA. (2016, September 21). TRI basic data files: Calendar years 1987 - 2015. Retrieved October 4, 2016, from US Environmental Protection Agency, https://www.epa.gov/toxics-release-inventory-tri-program/tri-basic-data-files-calendar-years-1987-2015
+
+Data fields definition:
+https://www.epa.gov/sites/production/files/2016-07/documents/tri_basic_data_file_format_v15_july_2016_0.pdf
+
+Description:
+TODO
+
+Research Questions: 
+
+1) The industries/companies/POTWs present in the given vincinity, and how they are contributing to the pollution? We can scale up the data from county to state level and identify potential areas under threat from high levels of pollution. Which state ranks the highest in pollution? Which county in a state contributes to highest pollution?
+
+2) Studying the data over a decade, we can analyze how the waste management is being done by the industries ? Is the amount of waste increasing or decreasing over time ? How much waste is being recycled, how much waste is being converted to energy, how much waste is being treated ? Are the companies moving towards better or worse waste management ?
+
+3) Which industry type is causing the most amount of pollution(by volume/weight)? Which chemical compound contributes to the most amount of pollution?  Which industry is producing the most carcinogenic compound? If we can find a dataset related to amount of cancer related cases/deaths over the USA, is there a direct correlation between the two ?
+
+Targeted Audience:
+
+1) The government along with EPA, can study the results so obtained, and from the answers, identify areas which are under direct threat from pollution from industries. This can help them set various guidelines which will help in better pollution management. 
+
+2) People of the USA have a right to know under how much threat they are and how much risk they face because of presence of industrial sectors in their vicinity. People can calculate the amount of human risk involved by using the EPAs publicly available Risk-Screening Environmental Indicators model.
+
+3) Oncology researchers can understand the influence of carcinogenic effluents and rate of cancer cases in a given area.
+
+A few more questions/ideas to consider from the data set:
+
+1.  Which parent companies are the least and most culpable in effluent waste production and carcinogenic chemicals?
+2.  Which chemicals contribute to the most instances of carcinogenesis?
+3.  Compare federal and non-federal facilities in terms of effluent waste production.
+4.  Which companies are more prone to stack (traditional means) emissions versus fugitive (escaped/leaked) emissions?
+
+Two articles with data sets on carcinogenesis to consider:
+
+http://www.tandfonline.com/doi/abs/10.1080/10590501.2016.1166879
+
+http://www.ewg.org/research/toxic-stew/chemicals-waste-included-carcinogens-and-neurotoxins
